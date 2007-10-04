@@ -1,0 +1,8 @@
+audiofile >= 0.2.6
+flac >= 1.1.2
+glibc-solibs >= 2.5
+lame >= 3.97
+libmad >= 0.15.1b
+madplay >= 0.15.2b
+perl >= 5.8.8
+vorbis-tools >= 1.1.1
